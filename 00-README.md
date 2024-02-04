@@ -14,4 +14,4 @@ Each jupyter notebook contains a different step of the analysis:
 5) EDA through data visualization with Seaborn library
 6) Interactive maps of the SPACEX Launch Sites and their proximities with Folium library
 7) Interactive dashboards built with Plotly-Dash
-8) Machine Learning Classification (logistic regression, support vector machines, decision trees, K-Nearest Neighbors)
+8) Machine Learning Classification with sklearn (logistic regression, support vector machines, decision trees, K-Nearest Neighbors)
