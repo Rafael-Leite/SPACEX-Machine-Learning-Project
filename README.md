@@ -2,7 +2,9 @@
 
 This project was completed in order to attain the IBM Data Science Professional Certificate. 
 
-The purpose of the project was to implement machine learning models to try to predict whether rocket lauches from the SPACEx company would succesfully reutilize the first stage (bottom part) of the rocket, based on features of the rockets and the launch sites. The reutilization of the first stage saves the company millions of dollars in each launch, and it helps explain why SPACEX prices for rocket launches are so low in comparison to other private companies in the field.
+Space X advertises Falcon 9 rocket launches on its website at a cost of 62 million dollars, while other providers charge upward to 165 million dollars each. Much of the savings is because Space X can reuse the first stage - the bottom part of the rocket that is released during launch -, provided it is landed succesfully. Therefore, if we can determine if the first stage will land, we can determine the approximate cost of that launch. This information can be used if an alternate company wants to bid against space X for a rocket launch.
+
+keeping that in mind, the purpose of this project was to implement machine learning models to try to predict whether the first stage will land succesfully or not - a classification problem -, based on features both of the rockets and the launch sites.
 
 Each jupyter notebook entails a different step of the analysis:
 1) Data collection through SPACEx Public APIs
