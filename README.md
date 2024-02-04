@@ -6,7 +6,7 @@ Space X advertises Falcon 9 rocket launches on its website at a cost of 62 milli
 
 Keeping that in mind, the purpose of this project was to implement machine learning models to try to predict whether the first stage will land succesfully or not - a classification problem -, based on features both of the rockets and the launch sites.
 
-Each jupyter notebook entails a different step of the analysis:
+Each jupyter notebook encompasses a different step of the analysis:
 1) Data collection through SPACEx Public APIs
 2) Data collection through Web Scraping of Wikipedia
 3) Data wrangling with Pandas library
