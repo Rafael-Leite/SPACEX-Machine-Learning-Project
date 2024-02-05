@@ -9,9 +9,9 @@ Keeping that in mind, the purpose of this project was to implement machine learn
 Each jupyter notebook contains a different step of the analysis:
 1) Data collection through SPACEx Public APIs
 2) Data collection through Web Scraping with BeautifulSoup
-3) Data wrangling with Pandas library
-4) Exploratory Data Analysis (EDA) with SQL, using the sqllite module
-5) EDA through data visualization with Seaborn library
-6) Interactive maps of the SPACEX Launch Sites and their proximities with Folium library
+3) Data wrangling with Pandas
+4) Exploratory Data Analysis (EDA) with SQL, using sqllite module
+5) EDA through data visualization with Seaborn
+6) Interactive maps of the SPACEX Launch Sites and their proximities with Folium
 7) Interactive dashboards built with Plotly-Dash
 8) Machine Learning Classification with sklearn and GridSearchCV
