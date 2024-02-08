@@ -15,3 +15,5 @@ Each jupyter notebook contains a different step of the analysis:
 6) Interactive maps of the SPACEX Launch Sites and their proximities with Folium
 7) Interactive dashboards built with Plotly-Dash
 8) Machine Learning Classification with sklearn and GridSearchCV
+
+Finally, a PDF document contains a presentation summarizing the metodologies and the results that were found.
